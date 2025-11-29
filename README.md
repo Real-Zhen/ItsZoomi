@@ -27,7 +27,7 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Benjamin Solano </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+  Hello There! <em><b> I'm Zoomi </b></em>, a reverse engineer with 2 years of experience who can manipulate a variety of languages such as C#, Javascript, Lua and Python. 
 </p>
 
 
